@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="T" v="-30"/>
+      <pair l="A" r="V" v="-50"/>
+      <pair l="A" r="Y" v="-60"/>
+      <pair l="A" r="quotedbl" v="-70"/>
+      <pair l="F" r="A" v="-50"/>
+      <pair l="F" r="J" v="-60"/>
+      <pair l="L" r="T" v="-50"/>
+      <pair l="L" r="V" v="-70"/>
+      <pair l="L" r="quotedbl" v="-70"/>
+      <pair l="N" r="A" v="-30"/>
+      <pair l="N" r="a" v="-50"/>
+      <pair l="P" r="A" v="-45"/>
+      <pair l="P" r="J" v="-30"/>
+      <pair l="T" r="A" v="-30"/>
+      <pair l="T" r="J" v="-50"/>
+      <pair l="T" r="a" v="-40"/>
+      <pair l="V" r="A" v="-50"/>
+      <pair l="V" r="J" v="-40"/>
+      <pair l="V" r="a" v="-80"/>
+      <pair l="X" r="c" v="-20"/>
+      <pair l="Y" r="A" v="-60"/>
+      <pair l="Y" r="J" v="-60"/>
+      <pair l="a" r="quotedbl" v="-80"/>
+      <pair l="a" r="t" v="-40"/>
+      <pair l="a" r="v" v="-70"/>
+      <pair l="f" r="a" v="-35"/>
+      <pair l="l" r="quotedbl" v="-110"/>
+      <pair l="l" r="t" v="-40"/>
+      <pair l="l" r="v" v="-40"/>
+      <pair l="p" r="a" v="-30"/>
+      <pair l="quotedbl" r="A" v="-70"/>
+      <pair l="quotedbl" r="J" v="-140"/>
+      <pair l="quotedbl" r="a" v="-50"/>
+      <pair l="quotedbl" r="j" v="-100"/>
+      <pair l="t" r="a" v="-40"/>
+      <pair l="t" r="j" v="-40"/>
+      <pair l="v" r="a" v="-70"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
